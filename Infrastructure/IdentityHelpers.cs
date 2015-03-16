@@ -7,7 +7,7 @@ using Microsoft.AspNet.Identity.Owin;
 
 namespace Users.Infrastructure
 {
-    public class IdentityHelpers
+    public static class IdentityHelpers
     {
         public static MvcHtmlString GetUserName(this HtmlHelper html, string id)
         {
