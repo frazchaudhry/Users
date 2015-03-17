@@ -10,7 +10,9 @@
             <tr>
                 <th>@key</th>
                 <td>@Model[key]</td>
-        </tr>
+            </tr>
         }
     </table>
 </div>
+
+@Html.ActionLink("Sign Out", "Logout", "Account", null, new {@class = "btn btn-primary"})

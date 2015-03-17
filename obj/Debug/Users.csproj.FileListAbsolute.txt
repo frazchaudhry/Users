@@ -56,3 +56,6 @@ C:\Visual Studio 2013\Projects\bin\Microsoft.Owin.Security.xml
 C:\Visual Studio 2013\Projects\bin\Microsoft.Owin.Security.Cookies.xml
 C:\Visual Studio 2013\Projects\bin\Microsoft.Owin.Security.OAuth.xml
 C:\Visual Studio 2013\Projects\obj\Debug\Users.pdb
+E:\Visual Studio 2013\Projects\Pro ASP .NET MVC 5\Users\Users\obj\Debug\Users.Migrations.CityProperty.resources
+E:\Visual Studio 2013\Projects\Pro ASP .NET MVC 5\Users\Users\obj\Debug\Users.csproj.GenerateResource.Cache
+E:\Visual Studio 2013\Projects\Pro ASP .NET MVC 5\Users\Users\obj\Debug\Users.Migrations.CountryProperty.resources
